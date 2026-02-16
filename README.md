@@ -2,9 +2,9 @@
 
 Projet académique portant sur les méthodes de Monte Carlo par Chaînes de Markov (MCMC) et leurs applications modernes en Intelligence Artificielle, incluant l’inférence bayésienne et les modèles génératifs de diffusion.
 
-## Les resultats des applications du projet ( HTML)
+## Les résultats des applications du projet ( HTML)
 
-Les resultats des applications du projet sont disponibles ici :
+Les résultats des applications du projet sont disponibles ici :
 https://drive.google.com/drive/folders/1inwx1j4mdbVk-1cUGQjikSGYKZIQZo5Q?usp=drive_link
 
 
