@@ -1,14 +1,12 @@
 # MCMC-and-Generative-AI
 
 Projet académique portant sur les méthodes de Monte Carlo par Chaînes de Markov (MCMC) et leurs applications modernes en Intelligence Artificielle, incluant l’inférence bayésienne et les modèles génératifs de diffusion.
-⸻
 
 ## Rapport du projet (PDF / HTML)
 
 Le rapport complet du projet est disponible ici :
 https://drive.google.com/drive/folders/1inwx1j4mdbVk-1cUGQjikSGYKZIQZo5Q?usp=drive_link
 
-⸻
 
 ## Objectifs du projet
 
@@ -18,7 +16,6 @@ Ce projet vise à :
 	•	Illustrer leur rôle central dans l’IA probabiliste moderne
 	•	Établir le lien entre chaînes de Markov classiques et modèles de diffusion génératifs
 
-⸻
 
 ## Applications étudiées
 
@@ -33,7 +30,6 @@ Points clés :
 	•	Trace plots, autocorrélation, taux d’acceptation
 	•	Calibration des probabilités (ECE)
 
-⸻
 
 ### Application 2 — Modèles de Diffusion (DDPM)
 	•	Étude des modèles génératifs par diffusion
@@ -45,7 +41,6 @@ Points clés :
 	•	Génération de données à partir du bruit gaussien
 	•	Connexion avec l’IA générative moderne (Stable Diffusion, DALL·E)
 
-⸻
 
 ## Contenu du projet
 	•	Fondements théoriques des chaînes de Markov
@@ -56,7 +51,6 @@ Points clés :
 	•	Implémentations Python commentées
 	•	Analyses expérimentales et visualisations
 
-⸻
 
 ## Technologies utilisées
 	•	Python
@@ -67,11 +61,9 @@ Points clés :
 	•	Statsmodels
 	•	Jupyter Notebook
 
-⸻
 
 Mots-clés
 
 MCMC, Metropolis-Hastings, Inférence bayésienne, Chaînes de Markov,
 Modèles de diffusion, Intelligence artificielle générative
 
-⸻
